@@ -24,7 +24,7 @@ Para hacer lo anterior, se podria tener como primer criterio que el articulo ten
 
 
 
-La 
+
  
 
 
